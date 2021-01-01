@@ -1,0 +1,2 @@
+[[https://le-www-live-s.legocdn.com/sc/media/files/support/mindstorms%20ev3/building-instructions/design%20engineering%20projects/pen%20holder-af7cd577b989307efdda695205e753d6.pdf][penholder instructions]]
+[[https://service.zkai.co.jp/home/z-programming/idolab/r8pfss000001a66k-att/r8pfss000001ostt.pdf][plotbot instructions]]
